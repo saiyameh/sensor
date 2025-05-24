@@ -1,4 +1,4 @@
-**about:** an interactive proximity‐based art & counter display that uses an ultrasonic sensor to detect people passing by, shows dynamic animations on an 8×8 LED matrix, logs counts to the console, and displays contextual messages on a 16×2 I²C LCD <br>
+**about:** an interactive proximity‐based art & counter display that uses an ultrasonic sensor to detect people passing by, shows dynamic animations on an 8×8 LED matrix, logs counts to the console, and displays contextual messages on a 16×2 I2C LCD <br>
 **hardware:** Raspberry Pi Pico, Ultrasonic Sensor HC-SR04, 8×8 LED Matrix with MAX7219 driver, 16×2 I²C LCD (PCF8574 backpack), Jumper wires <br>
 **setup:** <br>
 <img height="300" width="350" alt="Screenshot 2025-02-13 at 16 23 21" src="https://github.com/user-attachments/assets/da0d8a18-3116-400f-a503-226a12782a41"/> <br>
