@@ -3,4 +3,4 @@
 **setup:** <br>
 <img height="300" width="350" alt="Screenshot 2025-02-13 at 16 23 21" src="https://github.com/user-attachments/assets/da0d8a18-3116-400f-a503-226a12782a41"/> <br>
 upload `sensor.py`, `pico_i2c_lcd.py` & `max7219.py` to the pico <br>
-**usage:** wave your hand under the ultrasonic sensor to trigger “far→near” crossings—each crossing increments the on-screen counter & plays a celebration animation & when no count event is active, the display reverts to zone‐based animations: “far” (>100 cm): breathing dot + distance readout, “mid” (50–100 cm): expanding circle + “i see you”, “near” (20–50 cm): bar-graph + “you're trespassing” & “close” (<20 cm): full-matrix flash + “stay away”
+**usage:** wave your hand under the ultrasonic sensor to trigger “far→near” crossings, each crossing increments the on-screen counter & plays a celebration animation & when no count event is active, the display reverts to zone‐based animations: “far” (>100 cm): breathing dot + distance readout, “mid” (50–100 cm): expanding circle + “i see you”, “near” (20–50 cm): bar-graph + “you're trespassing” & “close” (<20 cm): full-matrix flash + “stay away”
